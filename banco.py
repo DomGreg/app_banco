@@ -12,6 +12,7 @@ _________BANCO____________
   TIME IS MONEY! Oh Yeah
 __________________________
 """
+#Painel do Banco
 painel2 = """
 [1] SACAR VALORES
 [2] ADICIONAR VALORES
